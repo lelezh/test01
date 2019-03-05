@@ -1,4 +1,5 @@
 window.onload=function () {
+    alert("a");
     var btn = document.querySelector('button');
     btn.onclick=function(){
         var p = document.createElement('p');
